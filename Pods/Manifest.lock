@@ -1,0 +1,74 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - EmptyKit (3.0.5)
+  - EVReflection (3.1.2)
+  - Kingfisher (3.5.0)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - ObjectMapper (2.2.3)
+  - pop (1.0.9)
+  - ReactiveCocoa (5.0.0):
+    - ReactiveSwift (~> 1.0.0)
+  - ReactiveSwift (1.0.1):
+    - Result (~> 3.1)
+  - ReflectionView (1.2)
+  - Result (3.1.0)
+  - SnapKit (3.0.2)
+  - StreamingKit (0.1.29)
+  - SwiftyJSON (3.1.4)
+  - XCGLogger (4.0.0):
+    - XCGLogger/Core (= 4.0.0)
+  - XCGLogger/Core (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - AlamofireObjectMapper (~> 4.0)
+  - EmptyKit (~> 3.0.2)
+  - EVReflection (from `https://github.com/evermeer/EVReflection`, branch `Swift3`)
+  - Kingfisher (~> 3.0)
+  - MBProgressHUD (~> 1.0.0)
+  - MJRefresh (~> 3.1.10)
+  - ObjectMapper (~> 2.2)
+  - pop (~> 1.0)
+  - ReactiveCocoa (~> 5.0.0)
+  - ReflectionView (~> 1.2)
+  - SnapKit (~> 3.0.0)
+  - StreamingKit (~> 0.1.29)
+  - SwiftyJSON (~> 3.1.4)
+  - XCGLogger (~> 4.0.0)
+
+EXTERNAL SOURCES:
+  EVReflection:
+    :branch: Swift3
+    :git: https://github.com/evermeer/EVReflection
+
+CHECKOUT OPTIONS:
+  EVReflection:
+    :commit: a1c0d785d3df90de27a52135d8071ea1bb7defc7
+    :git: https://github.com/evermeer/EVReflection
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  EmptyKit: 9221bcc5a27ef8c695f8eb61ff5dcc64b4dc98fd
+  EVReflection: 102d8ca777db55200f48b80d9628c8d50fb4109d
+  Kingfisher: 7c62087039d93d26c54c8dd9b0b588d2ce55cef6
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ObjectMapper: d3b3de11267f5d971f390eb8d63dd509116a4329
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  ReactiveCocoa: 60ef0da915b4f70c34ebecc3f4fb8f96af0e53d6
+  ReactiveSwift: b1453c8885ebfb9b09b6d60bc5bc3303f56dc72c
+  ReflectionView: be2a06e597ec6734c0077423c797ff02de765947
+  Result: 4e3ed5995ed94d0cd6a09be9a431fce3f3624bbf
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  StreamingKit: c329785aaef3ac142d4ae388345bfe1ed23cfd45
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  XCGLogger: 38063ea89b4c8b23232d18efd2e12eb0005f3ea4
+
+PODFILE CHECKSUM: 66525921f4f81236eb661b3b65f578d556f2649c
+
+COCOAPODS: 1.2.0.beta.1

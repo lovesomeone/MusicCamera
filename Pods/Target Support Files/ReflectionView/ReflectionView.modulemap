@@ -1,0 +1,6 @@
+framework module ReflectionView {
+  umbrella header "ReflectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
